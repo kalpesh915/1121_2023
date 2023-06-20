@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "fname": "kiran",
+      "lname": "gadhadra",
+      "city": "Rajkot",
+      "phone": "9898107057",
+      "email": "kiran@rajkot.com",
+      "id": 1
+    },
+    {
+      "fname": "Poonam",
+      "lname": "Rathod",
+      "city": "wankaner",
+      "phone": "9898107058",
+      "email": "poonam@rajkot.com",
+      "id": 2
+    },
+    {
+      "fname": "mubin",
+      "lname": "serasiya",
+      "city": "wankaner",
+      "phone": "42349823797",
+      "email": "mubin@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "Himanshu",
+      "lname": "jagada",
+      "city": "Rajkot",
+      "phone": "9898107057",
+      "email": "himanshu@gmail.com",
+      "id": 4
+    },
+    {
+      "fname": "Gulam",
+      "lname": "marviya",
+      "city": "wankaner",
+      "phone": "9988994433",
+      "email": "gulam@gmail.com",
+      "id": 5
+    },
+    {
+      "fname": "shruti",
+      "lname": "goswami",
+      "city": "Rajkot",
+      "phone": "9988998899",
+      "email": "shruti@gmail.com",
+      "id": 6
+    },
+    {
+      "fname": "Aayushi",
+      "lname": "Gadhiya",
+      "city": "Rajkot",
+      "phone": "9988998894",
+      "email": "aayushi@gmail.com",
+      "id": 7
+    },
+    {
+      "fname": "KALPESH",
+      "lname": "chauhan",
+      "city": "Rajkot",
+      "phone": "9898107057",
+      "email": "kalpesh915@gmail.com",
+      "id": 8
+    }
+  ]
+}
